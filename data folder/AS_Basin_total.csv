@@ -1,0 +1,317 @@
+﻿fid;OBJECTID;nom_ah;nom_zh;COD_SZH;nom_szh;SHAPE_Leng;SHAPE_Area;AS_basin_total
+1;1;Caribe;Atrato - Darién;1101;Río Andágueda;1.807658087;0.074302346;478.2195558
+2;2;Caribe;Atrato - Darién;1102;Alto Atrato;2.13341585;0.13469464;1162.980484
+3;3;Caribe;Atrato - Darién;1103;Río Quito;2.590285397;0.150004064;1422.851707
+4;4;Caribe;Atrato - Darién;1104;Río Bebaramá y otros Directos Atrato (md = margen derecho);2.30833422;0.212143333;3283.033609
+5;5;Caribe;Atrato - Darién;1105;Directos Atrato entre ríos Quito y Bojayá (mi = margen izquierdo);3.189538103;0.251700082;3482.771819
+6;6;Caribe;Atrato - Darién;1106;Directos Atrato entre ríos Bebaramá y Murrí (md);2.358675318;0.130267054;2711.032771
+7;7;Caribe;Atrato - Darién;1107;Río Murrí;3.564294577;0.282627437;8532.172723
+8;8;Caribe;Atrato - Darién;1108;Río Bojayá;2.333860317;0.148506302;1476.184411
+9;9;Caribe;Atrato - Darién;1109;Río Napipí - Río Opogadó;1.874834856;0.095680116;419.6681719
+10;10;Caribe;Atrato - Darién;1110;Río Murindó - Directos al Atrato;2.62022308;0.224123422;2846.426183
+11;11;Caribe;Atrato - Darién;1111;Río Sucio;5.151902684;0.444380705;21412.72182
+12;12;Caribe;Atrato - Darién;1112;Río Salaquí y otros Directos Bajo Atrato;4.488120668;0.475363409;4207.63401
+13;13;Caribe;Atrato - Darién;1113;Río Perancho;1.656630577;0.090039296;1923.468894
+14;14;Caribe;Atrato - Darién;1114;Directos Bajo Atrato entre Río Sucio y desembocadura;4.258111732;0.170816972;1379.73773
+15;15;Caribe;Atrato - Darién;1115;Río Tanela y otros Directos al Atrato;1.562777712;0.093831727;2332.249356
+16;16;Caribe;Atrato - Darién;1116;Río Tolo y otros Directos al Caribe;2.088931804;0.059058141;440.6720664
+17;17;Caribe;Atrato - Darién;1117;Río Cabí y otros Directos Atrato (md);1.166580172;0.038418382;1893.904897
+18;18;Caribe;Caribe - Litoral;1201;Río León;2.472567849;0.196478176;39552.03846
+19;19;Caribe;Caribe - Litoral;1202;Río Mulatos y otros Directos al Caribe;3.194389408;0.243177608;29006.80494
+20;20;Caribe;Caribe - Litoral;1203;Río San Juan;2.205414701;0.119629886;9252.39456
+21;21;Caribe;Caribe - Litoral;1204;Río Canalete y otros Arroyos Directos al Caribe;2.525770265;0.154646414;26194.26912
+22;22;Caribe;Caribe - Litoral;1205;Directos Caribe Golfo de Morrosquillo;2.77052115;0.206344679;13894.42928
+23;23;Caribe;Caribe - Litoral;1206;Arroyos Directos al Caribe;3.004173634;0.154354713;10941.89276
+24;24;Caribe;Sinú;1301;Alto Sinú - Urrá;3.510959876;0.37793214;10804.09612
+25;25;Caribe;Sinú;1302;Medio Sinú;3.249079636;0.315042961;10719.38222
+26;26;Caribe;Sinú;1303;Bajo Sinú;4.540382428;0.463697822;23282.34207
+27;27;Caribe;Caribe - Guajira;1501;Río  Piedras - Río Manzanares;1.79101909;0.077426281;7603.35329
+28;28;Caribe;Caribe - Guajira;1502;Río Don Diego;1.215297754;0.04499455;2344.029847
+29;29;Caribe;Caribe - Guajira;1503;Río Ancho y Otros Directos al Caribe;1.918683076;0.161154742;5983.086235
+30;30;Caribe;Caribe - Guajira;1504;Río Tapias;1.547521205;0.089704251;2865.654951
+31;31;Caribe;Caribe - Guajira;1505;Río Camarones y otros Directos Caribe;1.625853278;0.074036924;710.8402266
+32;32;Caribe;Caribe - Guajira;1506;Río Ranchería;3.862593314;0.357572982;5705.716061
+33;33;Caribe;Caribe - Guajira;1507;Directos Caribe - Ay.Sharimahana Alta Guajira;6.090196838;0.452981243;1075.171648
+34;34;Caribe;Caribe - Guajira;1508;Río Carraipía - Paraguachón, Directos al Golfo Maracaibo;5.591293983;0.46274908;85.38418901
+35;35;Caribe;Caribe - Guajira;1509;Río Guachaca - Mendihuaca y Buritaca;1.095043896;0.056113853;3225.317548
+36;36;Caribe;Catatumbo;1601;Río Pamplonita;3.323509307;0.110502812;4896.302741
+37;37;Caribe;Catatumbo;1602;Río Zulia;4.448095165;0.28572888;16950.62058
+38;38;Caribe;Catatumbo;1603;Río Nuevo Presidente - Tres Bocas (Sardinata, Tibú);2.87968898;0.283400674;42604.10575
+39;39;Caribe;Catatumbo;1604;Río Tarra;2.495131245;0.144635113;6736.871364
+40;40;Caribe;Catatumbo;1605;Río Algodonal (Alto Catatumbo);3.065063477;0.192265081;21809.83541
+41;41;Caribe;Catatumbo;1606;Río Socuavo del Norte y río Socuavo Sur;1.254559742;0.07513174;24921.33645
+42;42;Caribe;Catatumbo;1607;Bajo Catatumbo;2.330039437;0.106808946;14042.22622
+43;43;Caribe;Catatumbo;1608;Río del Suroeste y Directos Río del Oro;3.313301173;0.153569051;5050.968616
+44;44;Magdalena Cauca;Alto Magdalena;2101;Alto Magdalena;2.732533121;0.203436964;53982.43201
+45;45;Magdalena Cauca;Alto Magdalena;2102;Río Timaná y otros Directos al Magdalena;1.31259729;0.031131476;8809.39675
+46;46;Magdalena Cauca;Alto Magdalena;2103;Río Suaza;2.103599783;0.115537223;39147.92717
+47;47;Magdalena Cauca;Alto Magdalena;2104;Ríos Directos al Magdalena (mi);2.844192973;0.125080897;23966.51512
+48;48;Magdalena Cauca;Alto Magdalena;2105;Río Páez;3.896307344;0.422821764;38501.48648
+49;49;Magdalena Cauca;Alto Magdalena;2106;Ríos Directos Magdalena (md);2.140335407;0.093187859;20869.76798
+50;50;Magdalena Cauca;Alto Magdalena;2108;Río Yaguará y río Íquira;1.411592096;0.076415825;6967.037417
+51;51;Magdalena Cauca;Alto Magdalena;2109;Juncal y otros ríos Directos al Magdalena;1.331217206;0.036690988;1515.207418
+52;52;Magdalena Cauca;Alto Magdalena;2110;Río Neiva;1.530640145;0.086490681;15364.97501
+53;53;Magdalena Cauca;Alto Magdalena;2111;Río Fortalecillas y otros;2.408039394;0.17572528;17904.0345
+54;54;Magdalena Cauca;Alto Magdalena;2112;Río Baché;1.757745996;0.094297434;10601.4903
+55;55;Magdalena Cauca;Alto Magdalena;2113;Río Aipe, río Chenche y otros Directos al Magdalena;3.467357868;0.213328394;10654.0821
+56;56;Magdalena Cauca;Alto Magdalena;2114;Río Cabrera;3.163863392;0.228609563;6134.065126
+57;57;Magdalena Cauca;Alto Magdalena;2115;Directos Magdalena entre ríos Cabrera y Sumapaz;2.632054685;0.08282642;4129.44244
+58;58;Magdalena Cauca;Alto Magdalena;2116;Río Prado;1.852985261;0.138242194;8186.871991
+59;59;Magdalena Cauca;Alto Magdalena;2118;Río Luisa y otros Directos al Magdalena;2.071090321;0.087010229;13917.36143
+60;60;Magdalena Cauca;Alto Magdalena;2119;Río Sumapaz;3.124111104;0.248572862;18636.02842
+61;61;Magdalena Cauca;Alto Magdalena;2120;Río Bogotá;5.173407593;0.483232746;30087.41124
+62;62;Magdalena Cauca;Alto Magdalena;2121;Río Coello;2.54211004;0.149180062;15506.78655
+63;63;Magdalena Cauca;Alto Magdalena;2122;Río Opía y otros Directos al Magdalena (mi);1.335032661;0.045141525;733.8448397
+64;64;Magdalena Cauca;Alto Magdalena;2123;Río Seco y otros Directos al Magdalena;3.081716901;0.145075562;14819.72285
+65;65;Magdalena Cauca;Alto Magdalena;2124;Río Totare;1.839801444;0.118434413;14322.66801
+66;66;Magdalena Cauca;Alto Magdalena;2125;Río Lagunilla y otros Directos al Magdalena;2.487125065;0.225877221;32410.41036
+67;67;Magdalena Cauca;Saldaña;2201;Alto Saldaña;2.34820228;0.21005777;12917.9114
+68;68;Magdalena Cauca;Saldaña;2202;Río Atá;2.22720258;0.124581776;19170.08497
+69;69;Magdalena Cauca;Saldaña;2203;Medio Saldaña;1.456479512;0.04926231;6398.56294
+70;70;Magdalena Cauca;Saldaña;2204;Río Amoyá;2.054703849;0.119500748;6447.973194
+71;71;Magdalena Cauca;Saldaña;2206;Río Tetuán, río Ortega;1.676838481;0.09581382;9854.251545
+72;72;Magdalena Cauca;Saldaña;2207;Río Cucuana;2.392689593;0.152592133;12890.98703
+73;73;Magdalena Cauca;Saldaña;2208;Bajo Saldaña;2.108989436;0.059299591;3117.863179
+74;74;Magdalena Cauca;Medio Magdalena;2301;Río Gualí;1.978668618;0.068902306;23872.38948
+75;75;Magdalena Cauca;Medio Magdalena;2302;Río Guarinó;2.141533143;0.068929008;13355.84483
+76;76;Magdalena Cauca;Medio Magdalena;2303;Directos al Magdalena entre Río Seco y Río Negro (md);1.255831921;0.017932406;389.6090681
+77;77;Magdalena Cauca;Medio Magdalena;2304;Directos Magdalena entre ríos Guarinó y La Miel;1.472816818;0.077994757;1310.443986
+78;78;Magdalena Cauca;Medio Magdalena;2305;Río La Miel (Samaná);2.430855698;0.193164262;21641.7461
+79;79;Magdalena Cauca;Medio Magdalena;2306;Río Negro;3.902749765;0.390689823;61279.51209
+80;80;Magdalena Cauca;Medio Magdalena;2307;Directos Magdalena Medio entre ríos La Miel y Nare;2.159659145;0.119185998;2144.883957
+81;81;Magdalena Cauca;Medio Magdalena;2308;Río Nare;4.033280806;0.461763467;27582.7023
+82;82;Magdalena Cauca;Medio Magdalena;2310;Río San Bartolo y otros Directos al Magdalena Medio;3.144100841;0.290680661;13735.49009
+83;83;Magdalena Cauca;Medio Magdalena;2311;Directos al Magdalena Medio entre Río Negro y río Carare;3.24748895;0.217942277;1918.755452
+84;84;Magdalena Cauca;Medio Magdalena;2312;Río Carare (Minero);5.039929997;0.60001539;38147.03967
+85;85;Magdalena Cauca;Medio Magdalena;2314;Río Opón;3.422054167;0.34555776;46747.73351
+86;86;Magdalena Cauca;Medio Magdalena;2317;Río Cimitarra y otros Directos al Magdalena;3.821136083;0.408138984;9631.679183
+87;87;Magdalena Cauca;Medio Magdalena;2319;Río Lebrija y otros Directos al Magdalena;4.997892161;0.785240815;153283.6456
+88;88;Magdalena Cauca;Medio Magdalena;2320;Directos al Magdalena (Brazo Morales);4.417285283;0.579798577;39765.39871
+89;89;Magdalena Cauca;Medio Magdalena;2321;Quebrada El Carmen y otros Directos al Magdalena;2.515673658;0.241955758;16320.36163
+90;90;Magdalena Cauca;Sogamoso;2401;Río Suárez;5.52662595;0.640543853;71263.98642
+91;91;Magdalena Cauca;Sogamoso;2402;Río Fonce;2.396607278;0.196680324;32555.13571
+92;92;Magdalena Cauca;Sogamoso;2403;Río Chicamocha;6.322663666;0.781149332;12050.32251
+93;93;Magdalena Cauca;Sogamoso;2405;Río Sogamoso;3.420512151;0.285182225;41802.19802
+94;94;Magdalena Cauca;Bajo Magdalena- Cauca -San Jorge;2501;Alto San Jorge;3.51908307;0.328108657;6006.238744
+95;95;Magdalena Cauca;Bajo Magdalena- Cauca -San Jorge;2502;Bajo San Jorge - La Mojana;6.858230474;1.408562949;39308.22549
+96;96;Magdalena Cauca;Cauca;2601;Alto Río Cauca;1.588084326;0.068750556;3671.939093
+97;97;Magdalena Cauca;Cauca;2602;Río Palacé;1.674603299;0.076398889;11088.38628
+98;98;Magdalena Cauca;Cauca;2603;Río Salado y otros Directos Cauca;2.29560355;0.102318193;21334.50292
+99;99;Magdalena Cauca;Cauca;2604;Río Palo;2.201033185;0.133003379;40980.75027
+100;100;Magdalena Cauca;Cauca;2605;Río Timba;1.191678592;0.039235887;4949.197523
+101;101;Magdalena Cauca;Cauca;2606;Río Ovejas;1.450516313;0.07479065;18930.4489
+102;102;Magdalena Cauca;Cauca;2607;Río Guachal (Bolo - Fraile y Párraga);1.878971957;0.105320971;61347.09759
+103;103;Magdalena Cauca;Cauca;2608;Ríos Pescador - RUT - Chanco - Catarina y Cañaveral;2.815151085;0.106016251;34986.02155
+104;104;Magdalena Cauca;Cauca;2609;Ríos Amaime y Cerrito;1.845814598;0.079840306;28305.52079
+105;105;Magdalena Cauca;Cauca;2610;Ríos Tuluá y Morales;1.630470517;0.086430917;12384.86819
+106;106;Magdalena Cauca;Cauca;2611;Río Frío;1.103671979;0.039201203;15637.58509
+107;107;Magdalena Cauca;Cauca;2612;Río La Vieja;2.624454155;0.23106249;100408.0719
+108;108;Magdalena Cauca;Cauca;2613;Río Otún y otros Directos al Cauca;1.986787375;0.09912891;25533.0615
+109;109;Magdalena Cauca;Cauca;2614;Río Risaralda;2.120968436;0.102248397;52415.72306
+110;110;Magdalena Cauca;Cauca;2615;Río Chinchiná;1.610959507;0.085445013;15404.75408
+111;111;Magdalena Cauca;Cauca;2616;Río Tapias y otros Directos al Cauca;2.013974565;0.115127115;34481.53999
+112;112;Magdalena Cauca;Cauca;2617;Río Cartama y otros Directos al Cauca;3.019819159;0.134282797;51499.88002
+113;113;Magdalena Cauca;Cauca;2618;Río Arma;2.332235815;0.156950866;24277.74055
+114;114;Magdalena Cauca;Cauca;2619;Río San Juan;1.95572731;0.11509377;45338.23948
+115;115;Magdalena Cauca;Cauca;2620;Directos río Cauca entre río San Juan y Pto. Valdivia, margen derecho;4.433362763;0.290004249;29441.52343
+116;116;Magdalena Cauca;Cauca;2621;Directos río Cauca entre río San Juan y Pto. Valdivia, margen izquierdo;4.586537442;0.279837187;30848.28757
+117;117;Magdalena Cauca;Cauca;2622;Río Desbaratado;1.025601873;0.018510282;12146.23275
+118;118;Magdalena Cauca;Cauca;2624;Río Tarazá - Río Man;3.04048373;0.210899956;6671.280973
+119;119;Magdalena Cauca;Cauca;2625;Directos al Cauca entre Pto. Valdivia y río Nechí;3.535122466;0.113943936;4467.733089
+120;120;Magdalena Cauca;Cauca;2626;Directos Bajo Cauca - Cga. La Raya entre río Nechí y Brazo de Loba;4.08632117;0.356545456;3867.079652
+121;121;Magdalena Cauca;Cauca;2627;Río Piendamó;1.920205227;0.048480037;7163.307178
+122;122;Magdalena Cauca;Cauca;2628;Río Quinamayó y otros Directos al Cauca;1.636678971;0.06622719;21561.34627
+123;123;Magdalena Cauca;Cauca;2629;Ríos Claro y Jamundí;1.352984387;0.04991954;10947.03486
+124;124;Magdalena Cauca;Cauca;2630;Ríos Lili, Meléndez y Cañaveralejo;0.789126631;0.019565887;2334.380742
+125;125;Magdalena Cauca;Cauca;2631;Ríos Arroyohondo - Yumbo - Mulaló - Vijes - Yotoco;2.106236361;0.05157278;10514.55515
+126;126;Magdalena Cauca;Cauca;2632;Ríos Guabas, Sabaletas y Sonso;1.042814064;0.044089871;24744.40524
+127;127;Magdalena Cauca;Cauca;2633;Ríos Guadalajara y San Pedro;1.400552132;0.039046333;10918.1962
+128;128;Magdalena Cauca;Cauca;2634;Río Cali;0.70810893;0.01788014;2261.294177
+129;129;Magdalena Cauca;Cauca;2635;Río Bugalagrande;1.954487042;0.069463416;17364.02051
+130;130;Magdalena Cauca;Cauca;2636;Río Paila;1.0308315;0.042009413;18818.69779
+131;131;Magdalena Cauca;Cauca;2637;Quebradas Las Cañas - Los Micos y Obando;1.676777485;0.063557077;24014.40444
+132;132;Magdalena Cauca;Nechí;2701;Río Porce;5.657609283;0.427119343;18738.59682
+133;133;Magdalena Cauca;Nechí;2702;Alto Nechí;2.96825622;0.241130823;12117.8895
+134;134;Magdalena Cauca;Nechí;2703;Bajo Nechí (md);3.648390464;0.368772443;6111.252921
+135;135;Magdalena Cauca;Nechí;2704;Directos al Bajo Nechí (mi);2.271149863;0.163211552;2592.765828
+136;136;Magdalena Cauca;Cesar;2801;Alto Cesar;2.874000223;0.282926661;7308.939541
+137;137;Magdalena Cauca;Cesar;2802;Medio Cesar;4.201781426;0.677007172;52667.89112
+138;138;Magdalena Cauca;Cesar;2804;Río Ariguaní;3.765102684;0.427165366;43595.08232
+139;139;Magdalena Cauca;Cesar;2805;Bajo Cesar;3.656289573;0.498412133;23463.50231
+140;140;Magdalena Cauca;Bajo Magdalena;2901;Directos al Bajo Magdalena entre El Plato y Calamar (mi);2.049620274;0.166260034;17471.00088
+141;141;Magdalena Cauca;Bajo Magdalena;2902;Directos al Bajo Magdalena entre El Plato y Calamar (md);2.637830767;0.201096744;4326.393432
+142;142;Magdalena Cauca;Bajo Magdalena;2903;Canal del Dique (md);2.875707853;0.176145599;8291.378878
+143;143;Magdalena Cauca;Bajo Magdalena;2904;Directos al Bajo Magdalena entre Calamar y desembocadura;1.902552184;0.09326833;6624.447038
+144;144;Magdalena Cauca;Bajo Magdalena;2905;Canal del Dique (mi);3.93284843;0.190354366;24623.98567
+145;145;Magdalena Cauca;Bajo Magdalena;2906;Cga. Grande de Santa Marta;4.699431726;0.68097176;86453.56291
+146;146;Magdalena Cauca;Bajo Magdalena;2907;Directos Bajo Magdalena entre El Banco y El Plato;5.562848247;0.576071463;22206.41888
+147;147;Magdalena Cauca;Bajo Magdalena;2908;Ríos Chimicuica y Corozal;2.80647804;0.306140235;4026.189785
+148;148;Magdalena Cauca;Bajo Magdalena;2909;Ciénaga de Mallorquín;0.797453282;0.023032254;397.119232
+149;149;Orinoco;Inírida;3101;Río Inírida Alto;5.403477654;0.955865752;7223.955617
+150;150;Orinoco;Inírida;3104;Río Inírida Medio;11.01151975;1.486214232;297.6676728
+151;151;Orinoco;Inírida;3105;Río Papunaua;4.959886399;0.553288966;18.04036197
+152;152;Orinoco;Inírida;3108;Río Inírida (mi), hasta bocas Caño Bocón, y río Las Viñas;8.0178336;0.642103949;526.7793021
+153;153;Orinoco;Inírida;3110;Caño Bocón;4.956850589;0.565520176;298.4734287
+154;154;Orinoco;Guaviare;3201;Río Guayabero Alto;4.97965403;0.507812877;2455.447844
+155;155;Orinoco;Guaviare;3202;Río Guape;4.031069083;0.316682383;2059.712644
+156;156;Orinoco;Guaviare;3203;Río Losada;3.144667281;0.296579249;686.6735184
+157;157;Orinoco;Guaviare;3204;Río Guayabero Bajo;5.111581539;0.836995303;12976.94573
+158;158;Orinoco;Guaviare;3206;Río Ariari;6.10166351;0.65920312;68691.26142
+159;159;Orinoco;Guaviare;3207;Río Güejar;3.408213761;0.27087559;10247.41183
+160;160;Orinoco;Guaviare;3210;Medio Guaviare;8.571370012;1.116926751;14794.08563
+161;161;Orinoco;Guaviare;3212;Río Siare;4.95461457;0.366558304;904.9025889
+162;162;Orinoco;Guaviare;3213;Río Iteviare;5.822010929;0.393011167;1855.444056
+163;163;Orinoco;Guaviare;3214;Bajo Guaviare;8.953562095;0.713435782;3190.871021
+164;164;Orinoco;Guaviare;3215;Caño Minisiare;3.255263458;0.190816988;111.654116
+165;165;Orinoco;Guaviare;3216;Alto río Uvá;3.337972596;0.359747941;87.00409952
+166;166;Orinoco;Guaviare;3217;Medio río Uvá;4.37685457;0.423674863;614.4489295
+167;167;Orinoco;Vichada;3301;Alto Vichada;4.850323319;0.65806473;5806.292291
+168;168;Orinoco;Vichada;3302;Río Guarrojo;4.6766607;0.294008573;5611.4515
+169;169;Orinoco;Vichada;3303;Río Muco;4.647652938;0.360034398;13601.26171
+170;170;Orinoco;Vichada;3305;Directos Vichada Medio;3.798482205;0.404490944;406.9760907
+171;171;Orinoco;Vichada;3306;Bajo Vichada;4.868217674;0.405511379;532.4880833
+172;172;Orinoco;Tomo;3401;Alto río Tomo;5.268332374;0.653435074;2964.686216
+173;173;Orinoco;Tomo;3402;Río Elvita;4.294828926;0.453124991;5085.518855
+174;174;Orinoco;Tomo;3403;Bajo río Tomo;4.734395677;0.329317349;524.8301893
+175;175;Orinoco;Tomo;3405;Caño Lioni Terecay;3.266547334;0.208116905;494.4629092
+176;176;Orinoco;Meta;3501;Río Metica (Guamal - Humadea);3.044757819;0.314600525;61507.46784
+177;177;Orinoco;Meta;3502;Río Guayuriba;4.359532437;0.25967948;6649.377155
+178;178;Orinoco;Meta;3503;Río Guatiquía;3.205008436;0.150707072;6319.056661
+179;179;Orinoco;Meta;3504;Río Guacavía;1.484064417;0.069918681;8021.482908
+180;180;Orinoco;Meta;3505;Río Humea;1.933648692;0.109493564;5701.903045
+181;181;Orinoco;Meta;3506;Río Guavio;2.745982892;0.186502416;3579.256087
+182;182;Orinoco;Meta;3507;Río Garagoa;2.775390477;0.204373865;8197.230513
+183;183;Orinoco;Meta;3508;Río Lengupá;2.15100901;0.151696471;5525.141532
+184;184;Orinoco;Meta;3509;Río Upía;3.388571354;0.141647895;10659.0955
+185;185;Orinoco;Meta;3510;Río Negro;1.934047733;0.076757378;4052.613509
+186;186;Orinoco;Meta;3511;Directos al Meta entre ríos Guayuriba y Yucao (md);4.172217868;0.158453797;11077.91914
+187;187;Orinoco;Meta;3512;Río Yucao;2.500985654;0.201499696;8333.414288
+188;188;Orinoco;Meta;3513;Río Melúa;2.166592634;0.150353355;3130.895476
+189;189;Orinoco;Meta;3514;Caño Cumaral;1.952522035;0.090334811;584.4093102
+190;190;Orinoco;Meta;3515;Río Manacacías y otros Directos al Meta (md);7.408301912;0.57535966;6304.302699
+191;191;Orinoco;Meta;3516;Lago de Tota;0.70225161;0.016362123;15.2501033
+192;192;Orinoco;Meta;3518;Río Túa y otros Directos al Meta (mi);3.727341;0.399569718;27532.37879
+193;193;Orinoco;Meta;3519;Río Cusiana;4.174110228;0.41197075;26130.51819
+194;194;Orinoco;Meta;3520;Directos al Meta entre ríos Cusiana y Cravo Sur (mi);2.163421625;0.144104341;9260.882731
+195;195;Orinoco;Meta;3521;Río Cravo Sur;4.545632054;0.418507684;8763.447812
+196;196;Orinoco;Meta;3522;Caño Guanápalo y otros Directos al Meta (mi);3.69682582;0.488151753;10342.64692
+197;197;Orinoco;Meta;3523;Río Pauto y otros Directos al Meta (mi);5.577868205;0.67250106;3344.755971
+198;198;Orinoco;Meta;3524;Directos al río Meta entre ríos Pauto y Agua Clara (mi);4.568103241;0.438354361;124.2901021
+199;199;Orinoco;Meta;3525;Directos Bajo Meta entre ríos Casanare y Orinoco;6.772367197;0.507902295;3730.601815
+200;200;Orinoco;Meta;3526;Directos al río Meta entre ríos Cusiana y Casanare (md);6.419962604;0.302808622;3275.834431
+201;201;Orinoco;Meta;3527;Directos al río Meta entre ríos Guatiquía y Upía (mi);1.789640555;0.110336944;26159.65464
+202;202;Orinoco;Casanare;3601;Río Ariporo;5.782702512;0.446493858;2150.020659
+203;203;Orinoco;Casanare;3602;Río Casanare;7.005006204;0.509681021;11987.51792
+204;204;Orinoco;Casanare;3603;Río Cravo Norte;4.978530735;0.720194419;33075.94103
+205;205;Orinoco;Casanare;3604;Caño Samuco;1.948955854;0.075228443;101.8588542
+206;206;Orinoco;Casanare;3605;Río Agua Clara;2.870817138;0.21912307;29.43605997
+207;207;Orinoco;Arauca;3701;Río Chitagá;2.922420196;0.20388119;5447.230639
+208;208;Orinoco;Arauca;3702;Río Margua;1.279097028;0.059863705;1635.14948
+209;209;Orinoco;Arauca;3703;Río Cubugón - Río Covaría;1.833246008;0.164527736;595.5361256
+210;210;Orinoco;Arauca;3704;Río Bojabá y otros Directos al Arauca (md);1.955324737;0.090508599;653.3119045
+211;211;Orinoco;Arauca;3705;Río Banadia y otros Directos al río Arauca (md);2.950018996;0.187521572;20549.47099
+212;212;Orinoco;Arauca;3706;Directos río Arauca (md);2.980211272;0.242529299;1801.477432
+213;213;Orinoco;Apure;3901;Alto río Apure;0.95786622;0.022160149;17.43814364
+214;214;Orinoco;Orinoco Directos;3801;Río Vita;7.18284109;0.671941764;3998.796463
+215;215;Orinoco;Orinoco Directos;3802;Río Tuparro y otros Directos al Orinoco (mi);6.921266737;0.93208443;871.914884
+216;216;Orinoco;Orinoco Directos;3803;Caño Matavén y otros Directos al Orinoco (mi);6.05627537;0.846371307;124.684684
+217;217;Orinoco;Orinoco Directos;3804;Directos río Atabapo (mi);4.141390349;0.378762403;129.3586712
+218;218;Orinoco;Orinoco Directos;3805;Directos Orinoco entre ríos Tomo y Meta (mi);3.378961677;0.338049092;679.7989259
+219;219;Orinoco;Orinoco Directos;3809;Río Cinaruco y Directos río Orinoco (mi);4.072517565;0.349933161;460.2151764
+220;220;Amazonas;Guainía;4101;Alto río Guainía;3.507201748;0.307011389;1.30844941
+221;221;Amazonas;Guainía;4102;Medio río Guainía;4.062281824;0.405283048;0
+222;222;Amazonas;Guainía;4105;Bajo río Guainía;7.243990677;0.587127126;0
+223;223;Amazonas;Guainía;4106;Río Aquió o Caño Aque;3.217966026;0.245537644;0
+224;224;Amazonas;Guainía;4108;Río Cuiarí;5.146526199;0.359204319;0
+225;225;Amazonas;Guainía;4109;Río Isana;4.794407431;0.281083885;3.831208059
+226;226;Amazonas;Guainía;4110;Río Tomo;2.190598987;0.186980255;0
+227;227;Amazonas;Vaupés;4201;Río Itilla;2.984441279;0.209078118;821.7321375
+228;228;Amazonas;Vaupés;4202;Río Unilla;2.74285114;0.187541296;2248.018914
+229;229;Amazonas;Vaupés;4203;Alto Vaupés;5.24075292;0.702707514;2753.376603
+230;230;Amazonas;Vaupés;4207;Bajo Vaupés;8.74925337;1.09296185;1195.675797
+231;231;Amazonas;Vaupés;4208;Río Querarí;4.332069254;0.342111888;116.2068787
+232;232;Amazonas;Vaupés;4209;Río Papurí;5.32747391;0.433594894;295.8522229
+233;233;Amazonas;Vaupés;4211;Río Tiquié;1.472110943;0.080414959;85.08134766
+234;234;Amazonas;Apaporis;4301;Río Tunia (Macayá);6.796529815;0.752983074;216.0204566
+235;235;Amazonas;Apaporis;4302;Río Ajajú;4.914756552;0.635826889;2.522212756
+236;236;Amazonas;Apaporis;4303;Alto río Apaporis;7.224236494;1.003498326;418.5996124
+237;237;Amazonas;Apaporis;4305;Bajo río Apaporis;7.596994568;1.030691038;96.95910639
+238;238;Amazonas;Apaporis;4306;Río Cananarí;3.47433316;0.3075521;8.384176711
+239;239;Amazonas;Apaporis;4307;Río Pira Paraná;4.727339527;0.474204645;61.30701294
+240;240;Amazonas;Apaporis;4309;Directos río Taraira;4.145649921;0.123895919;56.53115758
+241;241;Amazonas;Caquetá;4401;Alto Caquetá;3.932933696;0.473207354;4646.98461
+242;242;Amazonas;Caquetá;4402;Río Caquetá Medio;13.55090897;1.265250367;11213.94139
+243;243;Amazonas;Caquetá;4403;Río Orteguaza;5.015177714;0.641438777;8946.809715
+244;244;Amazonas;Caquetá;4404;Río Pescado;2.369753827;0.166957853;4859.532811
+245;245;Amazonas;Caquetá;4407;Río Rutuya;1.584140777;0.09078326;13.13780394
+246;246;Amazonas;Caquetá;4408;Río Mecaya;4.008883901;0.370008848;4503.427789
+247;247;Amazonas;Caquetá;4409;Río Sencella;2.851709726;0.141319989;268.13939
+248;248;Amazonas;Caquetá;4410;Río Peneya;1.95666023;0.129339951;41.56134572
+249;249;Amazonas;Caquetá;4415;Río Caquetá Bajo;13.55498204;2.064685221;54.13617444
+250;250;Amazonas;Caquetá;4417;Río Cahuinarí;6.551356347;1.223913201;0
+251;251;Amazonas;Caquetá;4418;Río Mirití-Paraná;6.622200972;0.727429467;0
+252;252;Amazonas;Yarí;4501;Alto Yarí;4.525633806;0.605841676;2457.61147
+253;253;Amazonas;Yarí;4502;Río Camuya;3.102416458;0.224319207;283.7061552
+254;254;Amazonas;Caguán;4601;Río Caguán Alto;5.04393504;0.472373548;6367.945016
+255;255;Amazonas;Caguán;4602;Río Guayas;4.025739149;0.448321351;5878.428134
+256;256;Amazonas;Caguán;4604;Río Caguán Bajo;5.685254346;0.599912833;7186.738596
+257;257;Amazonas;Caguán;4605;Río Sunsiyá;3.350098563;0.201667722;2227.403697
+258;258;Amazonas;Putumayo;4701;Alto río Putumayo;4.141514928;0.563759437;17108.62149
+259;259;Amazonas;Putumayo;4702;Río San Miguel;3.215249338;0.187256232;14183.77607
+260;260;Amazonas;Putumayo;4703;Río Putumayo Medio;6.562074684;0.416771775;5633.520736
+261;261;Amazonas;Putumayo;4704;Río Putumayo Directos (mi);7.278016435;0.298109465;605.7239525
+262;262;Amazonas;Putumayo;4705;Río Cara-Paraná;5.486747949;0.595356523;0
+263;263;Amazonas;Putumayo;4706;Río Putumayo Bajo;14.79284904;1.176163234;0
+264;264;Amazonas;Putumayo;4707;Río Igara-Paraná;6.450471479;1.049445356;0
+265;265;Amazonas;Amazonas - Directos;4801;Directos río Amazonas (mi);3.186954913;0.263670902;3964.377502
+266;266;Amazonas;Napo;4901;Río Chingual;1.46545742;0.038613376;420.2133032
+267;267;Pacifico;Mira;5101;Río San Juan (frontera Ecuador);2.240182492;0.032807235;444.9468854
+268;268;Pacifico;Mira;5102;Río Mira;5.433571028;0.326330483;41284.16361
+269;269;Pacifico;Mira;5103;Río Rosario;1.382403066;0.06880622;27290.67579
+270;270;Pacifico;Mira;5104;Río Chagüí;1.327039486;0.04390482;7763.382576
+271;271;Pacifico;Patía;5201;Río Patía Alto;3.991050521;0.272985557;33363.30053
+272;272;Pacifico;Patía;5202;Río San Jorge;2.375354426;0.200710215;20848.66365
+273;273;Pacifico;Patía;5203;Río Mayo;1.52096976;0.070786944;21787.09003
+274;274;Pacifico;Patía;5204;Río Juananbú;2.14458417;0.169313697;26605.12256
+275;275;Pacifico;Patía;5205;Río Guáitara;3.417322252;0.295357591;31662.53447
+276;276;Pacifico;Patía;5206;Río Telembí;3.104516556;0.375207539;10972.78597
+277;277;Pacifico;Patía;5207;Río Patía Medio;3.5181913;0.193279702;8437.240096
+278;278;Pacifico;Patía;5209;Río Patía Bajo;3.745943302;0.376513223;17806.49231
+279;279;Pacifico;Tapaje - Dagua - Directos;5302;Río Tapaje;2.094949225;0.130214992;7683.95707
+280;280;Pacifico;Tapaje - Dagua - Directos;5303;Río Iscuandé;3.587368746;0.187208452;5946.311699
+281;281;Pacifico;Tapaje - Dagua - Directos;5304;Río Guapi;2.386660573;0.21315703;3921.38028
+282;282;Pacifico;Tapaje - Dagua - Directos;5305;Río Timbiquí;1.685781816;0.064480638;1593.89426
+283;283;Pacifico;Tapaje - Dagua - Directos;5306;Río Saija;1.866968025;0.089363318;2433.016129
+284;284;Pacifico;Tapaje - Dagua - Directos;5307;Río San Juan del Micay;4.287765876;0.362515782;19527.39259
+285;285;Pacifico;Tapaje - Dagua - Directos;5308;Río Naya - Yurumanguí;2.830931016;0.214725388;3687.940219
+286;286;Pacifico;Tapaje - Dagua - Directos;5309;Ríos Cajambre - Mayorquín - Raposo;2.538599942;0.164898928;1132.444961
+287;287;Pacifico;Tapaje - Dagua - Directos;5310;Río Anchicayá;1.959155086;0.103005242;1776.937577
+288;288;Pacifico;Tapaje - Dagua - Directos;5311;Dagua - Buenaventura - Bahía Málaga;3.211304199;0.157111106;9362.959869
+289;289;Pacifico;San Juán;5401;Río San Juan Alto;2.877725374;0.16615824;6308.660786
+290;290;Pacifico;San Juán;5402;Río Tamaná y otros Directos San Juan;2.939976376;0.230358082;4699.649159
+291;291;Pacifico;San Juán;5403;Río Sipí;2.861865776;0.245555153;20094.01334
+292;292;Pacifico;San Juán;5404;Río Cajón;1.206365992;0.059845188;1069.327177
+293;293;Pacifico;San Juán;5405;Río Capoma y otros Directos al San Juan;2.756111329;0.197407905;790.4978464
+294;294;Pacifico;San Juán;5406;Río Munguidó;1.560132926;0.069038897;141.0734875
+295;295;Pacifico;San Juán;5407;Ríos Calima y  Bajo San Juan;4.785633704;0.286674036;3279.360256
+296;296;Pacifico;San Juán;5408;Río San Juan Medio;2.556973729;0.076481529;1745.570247
+297;297;Pacifico;Baudó - Directos Pacifico;5501;Río Baudó;4.67893916;0.328448638;5574.59542
+298;298;Pacifico;Baudó - Directos Pacifico;5502;Río Docampadó y Directos Pacífico;2.684992204;0.156410195;1147.678947
+299;299;Pacifico;Pacífico - Directos;5601;Directos Pacífico (frontera Panamá);9.831866679;0.342210957;4156.219917
+300;300;Orinoco;Guaviare;3218;Bajo río Uvá;5.495584691;0.412739818;221.7306853
+301;301;Caribe;Islas Caribe;1701;San Andrés;0.373104912;0.002202437;33.99999991
+302;302;Caribe;Islas Caribe;1702;Providencia;0.294782586;0.001841346;3.41000001
+303;303;Orinoco;Inírida;3107;Caño Nabuquén;2.852651374;0.140049866;0
+304;304;Amazonas;Guainía;4107;Directos Río Negro (md);2.624233055;0.141669297;0
+305;305;Amazonas;Caquetá;4414;Río Cuemaní;2.694011994;0.197176314;0
+306;306;Amazonas;Caquetá;4420;Río Puré;4.362826131;0.618842152;0
+307;307;Amazonas;Yarí;4504;Medio Yarí;3.578208961;0.435321495;0
+308;308;Amazonas;Yarí;4505;Río Luisa;3.282722821;0.249904078;0
+309;309;Amazonas;Yarí;4506;Bajo Yarí;4.052848466;0.314758831;0
+310;310;Amazonas;Yarí;4509;Río Cuñare;3.605761903;0.447667119;0
+311;311;Amazonas;Yarí;4510;Río Mesay;6.027038757;0.702308547;0
+312;312;Amazonas;Putumayo;4710;Río Cotuhé;2.888805677;0.300231833;82.62250485
+313;313;Amazonas;Putumayo;4711;Río Purité;2.181265304;0.161538015;0
+314;314;Caribe;Islas Caribe;1703;Roncador y Quitasueño;0.341056312;0.002259971;0
+315;315;Pacifico;Islas Pacífico;5701;Malpelo;0.072656524;5.14414E-05;0
+316;316;Pacifico;Islas Pacífico;5702;Gorgona;0.22231094;0.00109885;0
